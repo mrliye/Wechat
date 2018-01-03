@@ -1,3 +1,4 @@
+
 # Wechat_push
 微信推送服务
 功能：微信模消息推送，将粉丝保存到数据库，（其他功能正在完善，敬请期待）！
@@ -10,6 +11,7 @@
 1.1运行项目
 1.2浏览器访问http://127.0.0.1:8080/saveAllUsers.action；
 OK！
+
 2.微信模板消息推送
 2.1 需要自己修改页面（generalTemplateUI.ftl），line:27-->
  $.post("sendGeneralMsg.action",
