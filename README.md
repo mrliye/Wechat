@@ -1,4 +1,5 @@
 
+
 # Wechat_push
 微信推送服务
 功能：微信模消息推送，将粉丝保存到数据库，（其他功能正在完善，敬请期待）！
@@ -21,3 +22,6 @@ OK！
 2.3 浏览器访问http://localhost:8080/loadIndexUI.action ---> 点击 通用模板 --> 点击发送
 OK!
 (备注：也可根据paperTemplateUI.ftl修改成表单提交)
+
+
+欢迎指正：微信(Ont147852)
