@@ -7,7 +7,7 @@
 准备：
 1). download
 2). 修改application.properties，配置公众号的appID和appsecret（必填）
-3). 修改数据库链接信息
+3). 修改数据库链接信息。
 
 1.将粉丝保存到数据库
 1.1运行项目
